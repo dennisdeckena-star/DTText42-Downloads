@@ -1,6 +1,12 @@
+<p align="center">
+  <img src="images/dttext42-icon.png" alt="DTText42 – Deine Stimme. Sofort als Text." width="180">
+</p>
+
 # DTText42 – Sprechen. Denken. Text entsteht. 👍
 
 **Eine Taste. Sprechen. Text erscheint.**
+
+![DTText42 Hauptmaske mit Diktat, KI-Werkzeugen und Textbibliothek](images/dttext42-product-showcase.png)
 
 DTText42 – kurz für **Deep Thought Text 42** – ist eine leistungsfähige Diktier- und Schreibanwendung für Ubuntu Linux. Sie verwandelt gesprochene Gedanken in brauchbaren Text: lokal transkribiert, auf Wunsch sprachlich verbessert, sicher eingefügt und dauerhaft in einer übersichtlichen Textbibliothek gespeichert.
 
